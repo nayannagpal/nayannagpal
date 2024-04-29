@@ -1484,3 +1484,7 @@ footer .credits a {
 .btn-primary{
   border-radius: 35px;
 }
+
+.w-title{
+  text-decoration: underline;
+}
