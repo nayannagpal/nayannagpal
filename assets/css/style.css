@@ -998,6 +998,7 @@ a:hover {
 
 .w-title {
   font-size: 1.2rem;
+  text-decoration: underline;
 }
 
 /*--------------------------------------------------------------
@@ -1485,6 +1486,4 @@ footer .credits a {
   border-radius: 35px;
 }
 
-.w-title{
-  text-decoration: underline;
-}
+
